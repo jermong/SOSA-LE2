@@ -1,0 +1,10 @@
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\bin\Debug\SosaBlogDB.dacpac
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\bin\Debug\SosaBlogDB.dll
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\bin\Debug\SosaBlogDB.pdb
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\obj\Debug\SosaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\obj\Debug\SosaBlogDB.dll
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\obj\Debug\SosaBlogDB.pdb
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\obj\Debug\Model.xml
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\obj\Debug\refactor.xml
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\jerma\OneDrive - Mapúa University\Desktop\2nd year\3rd term\IT128L\VS studio\LE2\SosaLE2\SosaBlogDB\obj\Debug\predeploy.sql
